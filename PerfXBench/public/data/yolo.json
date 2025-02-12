@@ -1,0 +1,11 @@
+{
+    "model_name": "YOLOv5",
+    "metrics": {
+      "Inference Latency": { "value": 50, "unit": "ms" },
+      "Throughput": { "value": 120, "unit": "req/sec" },
+      "Memory Usage": { "value": 800, "unit": "MB" },
+      "Model Size": { "value": 70, "unit": "MB" },
+      "Power Consumption": { "value": 8, "unit": "Watts" }
+    }
+  }
+  

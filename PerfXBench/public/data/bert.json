@@ -1,0 +1,11 @@
+{
+    "model_name": "BERT-Base",
+    "metrics": {
+      "Inference Latency": { "value": 200, "unit": "ms" },
+      "Throughput": { "value": 40, "unit": "req/sec" },
+      "Memory Usage": { "value": 2500, "unit": "MB" },
+      "Model Size": { "value": 420, "unit": "MB" },
+      "Power Consumption": { "value": 20, "unit": "Watts" }
+    }
+  }
+  

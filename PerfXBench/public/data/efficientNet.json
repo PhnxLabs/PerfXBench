@@ -1,0 +1,11 @@
+{
+    "model_name": "EfficientNet-B7",
+    "metrics": {
+      "Inference Latency": { "value": 85, "unit": "ms" },
+      "Throughput": { "value": 75, "unit": "req/sec" },
+      "Memory Usage": { "value": 1400, "unit": "MB" },
+      "Model Size": { "value": 256, "unit": "MB" },
+      "Power Consumption": { "value": 12, "unit": "Watts" }
+    }
+  }
+  

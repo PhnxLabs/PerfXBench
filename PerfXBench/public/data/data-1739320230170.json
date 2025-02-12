@@ -1,0 +1,25 @@
+{
+  "model_name": "ConvNet",
+  "metrics": {
+    "Inference Latency": {
+      "value": 95,
+      "unit": "ms"
+    },
+    "Throughput": {
+      "value": 80,
+      "unit": "req/sec"
+    },
+    "Memory Usage": {
+      "value": 750,
+      "unit": "MB"
+    },
+    "Model Size": {
+      "value": 120,
+      "unit": "MB"
+    },
+    "Power Consumption": {
+      "value": 10,
+      "unit": "Watts"
+    }
+  }
+}

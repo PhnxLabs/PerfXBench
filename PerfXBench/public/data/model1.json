@@ -1,0 +1,11 @@
+{
+    "model_name": "ResNet-50",
+    "metrics": {
+      "Inference Latency": { "value": 120, "unit": "ms" },
+      "Throughput": { "value": 50, "unit": "req/sec" },
+      "Memory Usage": { "value": 1024, "unit": "MB" },
+      "Model Size": { "value": 500, "unit": "MB" },
+      "Power Consumption": { "value": 15, "unit": "Watts" }
+    }
+  }
+  
